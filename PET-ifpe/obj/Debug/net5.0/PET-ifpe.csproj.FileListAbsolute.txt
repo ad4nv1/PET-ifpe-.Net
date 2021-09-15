@@ -1,0 +1,16 @@
+C:\Users\Adan\source\repos\PET-ifpe\PET-ifpe\bin\Debug\net5.0\PET-ifpe.exe
+C:\Users\Adan\source\repos\PET-ifpe\PET-ifpe\bin\Debug\net5.0\PET-ifpe.deps.json
+C:\Users\Adan\source\repos\PET-ifpe\PET-ifpe\bin\Debug\net5.0\PET-ifpe.runtimeconfig.json
+C:\Users\Adan\source\repos\PET-ifpe\PET-ifpe\bin\Debug\net5.0\PET-ifpe.runtimeconfig.dev.json
+C:\Users\Adan\source\repos\PET-ifpe\PET-ifpe\bin\Debug\net5.0\PET-ifpe.dll
+C:\Users\Adan\source\repos\PET-ifpe\PET-ifpe\bin\Debug\net5.0\ref\PET-ifpe.dll
+C:\Users\Adan\source\repos\PET-ifpe\PET-ifpe\bin\Debug\net5.0\PET-ifpe.pdb
+C:\Users\Adan\source\repos\PET-ifpe\PET-ifpe\obj\Debug\net5.0\PET-ifpe.csproj.AssemblyReference.cache
+C:\Users\Adan\source\repos\PET-ifpe\PET-ifpe\obj\Debug\net5.0\PET-ifpe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adan\source\repos\PET-ifpe\PET-ifpe\obj\Debug\net5.0\PET-ifpe.AssemblyInfoInputs.cache
+C:\Users\Adan\source\repos\PET-ifpe\PET-ifpe\obj\Debug\net5.0\PET-ifpe.AssemblyInfo.cs
+C:\Users\Adan\source\repos\PET-ifpe\PET-ifpe\obj\Debug\net5.0\PET-ifpe.csproj.CoreCompileInputs.cache
+C:\Users\Adan\source\repos\PET-ifpe\PET-ifpe\obj\Debug\net5.0\PET-ifpe.dll
+C:\Users\Adan\source\repos\PET-ifpe\PET-ifpe\obj\Debug\net5.0\ref\PET-ifpe.dll
+C:\Users\Adan\source\repos\PET-ifpe\PET-ifpe\obj\Debug\net5.0\PET-ifpe.pdb
+C:\Users\Adan\source\repos\PET-ifpe\PET-ifpe\obj\Debug\net5.0\PET-ifpe.genruntimeconfig.cache
